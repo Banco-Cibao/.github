@@ -1,12 +1,13 @@
-## Hi there 👋
+<h1  align="center">Hi there 👋 Welcome to</h1>
 
-<!--
+<p align="center" >
+   <a href="#!">
+       <img src="https://cibao.com.do/media/c2mepk1b/logo-transicion-9-1.png" alt="Logo" title="asociacion cibao logo" />
+  </a>
+</p>
 
-**Here are some ideas to get you started:**
+<h2>Historia</h2>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p> 
+   La Asociación Cibao de Ahorros y Préstamos fue fundada en 1962 en Santiago de los Caballeros, auspiciada por la Asociación para el Desarrollo, Inc. (APEDI), como una respuesta visionaria a las crecientes necesidades habitacionales y financieras del país. En un contexto de transformación económica y social, tras el cambio del escenario político nacional, la entidad nació con el propósito de facilitar el acceso a una vivienda digna, especialmente en la región del Cibao y, en particular, en Santiago.
+</p>
